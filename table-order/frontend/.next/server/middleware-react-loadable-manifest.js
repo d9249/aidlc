@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/customer/[storeId]/[tableId]/layout.tsx -> @/contexts/CartContext\":{\"id\":\"app/customer/[storeId]/[tableId]/layout.tsx -> @/contexts/CartContext\",\"files\":[]}}"

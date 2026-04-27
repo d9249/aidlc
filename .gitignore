@@ -1,0 +1,24 @@
+.DS_Store
+.amazonq/**
+.claude/**
+!.claude/settings.json
+.codebuild/**
+.worktrees/**
+.vscode/**
+.env
+buildspec.yml
+codebuild_build.sh
+
+# Python
+__pycache__/
+*.pyc
+venv/
+*.db
+
+# Node
+node_modules/
+.next/
+
+# Environment
+.env.local
+/table-order/backend/venv
